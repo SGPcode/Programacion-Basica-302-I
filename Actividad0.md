@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Sergio González Pérez
-## 11/Septiembre/2025
-## Portafolio de Códigos de C++
+<img width="264" height="176" alt="image" src="https://github.com/user-attachments/assets/6b949629-915d-4cce-b4cb-1d4536bf4bbf" />
